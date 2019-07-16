@@ -24,10 +24,25 @@
       "name": "Store Member Info"
     },
     {
+      "server": "0",
+      "varName": "",
+      "storage": "1",
+      "varName2": "Bot Member",
+      "name": "Get Bot as Member"
+    },
+    {
+      "member": "2",
+      "varName": "Bot Member",
+      "info": "1",
+      "storage": "1",
+      "varName2": "Bot ID",
+      "name": "Store Member Info"
+    },
+    {
       "storage": "1",
       "varName": "Check id",
       "comparison": "1",
-      "value": "589632042585554944",
+      "value": "tempVars(\"Bot ID\")",
       "iftrue": "0",
       "iftrueVal": "",
       "iffalse": "1",
